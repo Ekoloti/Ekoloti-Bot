@@ -1,0 +1,11 @@
+$nomention
+
+$title[Info Bot]
+
+$description[<a:pin:944028284193214464>｜Halo! **$username#$discriminator[]** Dan Selamat Datang Di Bot **<@944023669204717578>** Dan Prefix Saya Adalah **"+"** Jika Mau Melihat Commands Ketik **"+help"** Atau **"+h"**]
+
+$footer[Selamat Mencoba Bot]
+
+$color[$random[10000;9999999]]
+
+$onlyIf[$guildID!=;Kamu Memakai Command Di DM!]
