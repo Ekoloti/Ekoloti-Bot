@@ -1,0 +1,7 @@
+$nomention
+$title[Pong!]
+$description[:ping_pong: | Latency Bot : $ping]
+$footer[Pong Ping!]
+$color[$random[10000;9999999]]
+$onlyIf[$message==;]
+$onlyIf[$guildID!=;Kamu Memakai Command Di DM!]
