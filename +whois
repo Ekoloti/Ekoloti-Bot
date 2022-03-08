@@ -1,0 +1,11 @@
+$nomention
+$color[#0000ff]
+$userInfo[
+Username: {username}#$discriminator[]
+Verified: {verified}
+ID: {ID}
+Apakah bot: {BOT}] $image[$userAvatar[$mentioned[1]]] 
+$title[**Avatar**] $nomention
+$allowMention
+$color[#ff0000]
+$onlyIf[$guildID!=;Kamu Memakai Command Di DM!]
