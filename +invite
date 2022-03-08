@@ -1,0 +1,9 @@
+$nomention
+$reply
+$color[$random[10000;9999999]]
+$thumbnail[$authorAvatar]
+$title[Invite]
+$description[Tekan Button Dibawah!]
+$footer[]
+$addButton[no;$getBotInvite;Invite Saya;link;no;<:Invite:944466364255584306>]
+$onlyIf[$guildID!=;Kamu Memakai Command Di DM!]
