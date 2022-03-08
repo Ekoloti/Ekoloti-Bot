@@ -1,0 +1,7 @@
+$nomention
+$title[Memes]
+$description[Note: Jika Tidak Bisa Melihat Meme Ketik "+meme"]
+$image[https://ctk-api.herokuapp.com/meme/$random[1;500]]
+$footer[✋😳]
+$onlyIf[$message==;]
+$onlyIf[$guildID!=;Kamu Memakai Command Di DM!]
