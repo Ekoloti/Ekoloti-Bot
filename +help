@@ -1,0 +1,15 @@
+$nomention
+$title[Help]
+$description[<a:utility:944030520080236544> | Utility : ```+help``` ```+perms``` ```+whois``` ```+ping```
+<a:Economy:944030897647284285> | Economy :
+<:fun:944031367719706644> | Fun : ```+meme```
+<a:moderation:944031663598469140> | Moderation :
+<a:music:944031735065227316> | Music :
+<:Image:948509774801158144> | Image :
+<:developers:948510447978557440> | Developer Only : ```>eval```
+
+<a:arrow_arrow:945176244918558780> | [Invites]($getBotInvite)]
+$footer[Help]
+$color[$random[10000;9999999]]
+$onlyIf[$message==;]
+$onlyIf[$guildID!=;Kamu Memakai Command Di DM!]
